@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.0a7b2ee8-b723-11eb-96d7-3c2c30e42d70.jpg</filename>
+	<path>C:\Users\Seif Mohamed\1 Computer Vision\Real Time Sign Language Detection with Tensorflow\Tensorflow\workspace\images\collectedimages\yes.0a7b2ee8-b723-11eb-96d7-3c2c30e42d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>386</xmin>
+			<ymin>388</ymin>
+			<xmax>750</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+</annotation>

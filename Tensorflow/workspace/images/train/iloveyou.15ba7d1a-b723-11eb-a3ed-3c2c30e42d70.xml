@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveyou.15ba7d1a-b723-11eb-a3ed-3c2c30e42d70.jpg</filename>
+	<path>C:\Users\Seif Mohamed\1 Computer Vision\Real Time Sign Language Detection with Tensorflow\Tensorflow\workspace\images\collectedimages\iloveyou.15ba7d1a-b723-11eb-a3ed-3c2c30e42d70.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>96</ymin>
+			<xmax>508</xmax>
+			<ymax>423</ymax>
+		</bndbox>
+	</object>
+</annotation>
